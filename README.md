@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sebrob
-- 👀 I’m interested in making people grow!
-- 🌱 I’m currently learning rethoric theory
-- 💞️ I’m looking to collaborate on agile leadership!
+- 👀 I’m interested in countinous learning!
+- 🌱 I’m currently learning rethoric
 
 <!---
 sebrob/sebrob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
